@@ -1,0 +1,5 @@
+$bower list //aparece la lista de los paquetes que se encuentran instalados
+
+$bower install --save angular-ui-sortable jquery-ui
+
+$bower install --save angular-local-storage //almacenamiento local
